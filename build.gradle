@@ -4,7 +4,7 @@ plugins {
 }
 
 compileJava.options.encoding = 'UTF-8'
-group = 'me.ripwindows.quests'
+group = 'me.ripwindows.coinsapi'
 version = '1.0-SNAPSHOT'
 
 repositories {
