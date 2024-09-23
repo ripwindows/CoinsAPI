@@ -1,0 +1,16 @@
+# SQL -> Mysql
+# Mongo -> MongoDB
+
+database-type: "MONGO"
+
+sql:
+  host: 'localhost'
+  port: 3306
+  database: 'test'
+  username: 'root'
+  password: ''
+  database-properties: ''
+
+mongo:
+  url: ""
+  database: "players"
